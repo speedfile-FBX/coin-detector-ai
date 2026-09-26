@@ -1,0 +1,4 @@
+all links to used resources to train the model are included
+            #1 pytorch     https://github.com/pytorch/pytorch
+            #2 keras       https://github.com/keras-team/keras
+            #3 NUMpy       https://github.com/numpy/numpy
