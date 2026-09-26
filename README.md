@@ -1,2 +1,1 @@
-an ai that detects if a 1 Euro coin is heads or tails, trained on an AMD rx 7900xt  using keras with the PYtorch backend (see links file for resources used) the model is ~200k parameters 
-not tested on NVIDIA  GPUs or intel CPU so performance on those regards is unknown. 
+An AI that detects whether a €1 coin is heads or tails, trained on an AMD RX 7900 XT using Keras with the PyTorch backend (see the links file for resources used). The model has ~200k parameters. It has not been tested on NVIDIA GPUs or Intel CPUs, so performance on those systems is unknown.
